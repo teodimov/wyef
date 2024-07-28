@@ -1,4 +1,6 @@
-# NN-from-Scratch
+# WYEF AI NEURAL NETWORK FROM SCRATCH
+
+
 
 Handwritten digit recognition (MNIST) using a Neural Network implemented from scratch!
 
