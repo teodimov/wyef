@@ -26,6 +26,10 @@ Key functions are defined:
 - `sigmoid_deriv`: 计算sigmoid函数的导数。
 - `cost`: 计算实际输出和预测输出之间的均方误差。
 
+### 2.5 Dataset 
+
+The dataset can be found and downloaded here [https://github.com/fgnt/mnist](https://github.com/fgnt/mnist)
+
 ### 3. Reading the Train Set
 The training images and labels are read from the MNIST dataset files. The images are normalized, and the labels are converted into one-hot vectors.
 
